@@ -1,0 +1,16 @@
+{
+  "name": "logger_js",
+  "version": "1.0.0",
+  "description": "Markentive logger",
+  "main": "dist/index.js",
+  "types": "types/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxime BURES (maxime.bures@markentive.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
+  }
+}
